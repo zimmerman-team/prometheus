@@ -95,7 +95,7 @@ The Makefile provides several targets:
 
 ### Building the Docker image
 
-The `make docker` target is designed for use in our CI systemd.
+The `make docker` target is designed for use in our CI system.
 You can build a docker image locally with the following commands:
 
     $ promu crossbuild -p linux/amd64
